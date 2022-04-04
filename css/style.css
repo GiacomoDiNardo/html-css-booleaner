@@ -6,6 +6,30 @@ header {
     padding-top: 50px;
 }
 
-header img{
+header img {
     width: 20%;
+}
+
+figure img {
+    width: 49%;
+    height: 600px;
+}
+
+#main-title {
+    font-size: 50px;
+    margin: 0;
+}
+
+#credits {
+    font-size: 20px;
+    color: grey;
+}
+
+#date {
+    color: grey;
+    font-size: 15px;
+}
+
+#credits a {
+    text-decoration: none;
 }
