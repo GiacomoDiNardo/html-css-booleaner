@@ -1,8 +1,11 @@
+body {
+    font-size: 20px;
+}
+
 header {
     background-color: rgb(65, 134, 224);
     background-image: url("../img/pattern.png");
     background-size: 500px;
-    /* height: 150px; */
     padding-top: 50px;
 }
 
@@ -21,7 +24,6 @@ figure img {
 }
 
 #credits {
-    font-size: 20px;
     color: grey;
 }
 
@@ -32,4 +34,18 @@ figure img {
 
 #credits a {
     text-decoration: none;
+}
+
+td {
+    width: 33%;
+}
+
+thead {
+    background-color: rgb(70, 184, 230);
+    color: white;
+    text-align: left;
+}
+
+.blue-row {
+    background-color: rgb(141, 218, 238);
 }
