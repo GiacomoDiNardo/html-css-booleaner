@@ -14,8 +14,12 @@ header img {
 }
 
 figure img {
-    width: 49%;
-    height: 600px;
+    width: 48%;
+   height: 500px;
+}
+
+table {
+    border-collapse: collapse;
 }
 
 td {
@@ -45,8 +49,6 @@ thead {
 #credits a {
     text-decoration: none;
 }
-
-
 
 .blue-row {
     background-color: rgb(141, 218, 238);
